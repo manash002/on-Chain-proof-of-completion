@@ -103,3 +103,6 @@ We envision a future where educational credentials, work completions, project mi
 ---
 
 *Built with ❤️ for a more transparent and trustworthy digital future*
+
+
+CONTACTS ADDRESS - 0xE186E8Ed80B9e06bB378B20743A26F0C8B543eC8
